@@ -1,0 +1,9 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+# Project exclude paths
+/WebDogApp/wwwroot/lib/bootstrap/dist/
+/WebDogApp/wwwroot/lib/jquery/dist/
+/WebDogApp/wwwroot/lib/jquery-validation/dist/

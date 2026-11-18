@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="WebDogApp.Core/WebDogApp.Core.csproj" />
+  <Project Path="WebDogApp.Infrastructure/WebDogApp.Infrastructure.csproj" />
+  <Project Path="WebDogApp/WebDogApp.csproj" />
+</Solution>
